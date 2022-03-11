@@ -1,0 +1,143 @@
+
+body{
+	background-image: url(fondo.jpeg);
+	background-repeat: no-repeat;
+	background-size: 4000px;
+	 margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+
+
+
+
+.cuadro1{
+	 background-color:#E8DAEF ;
+	 margin: 0px 0px 0px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 200px;
+	 outline: 5px solid #7B68EE;
+}
+.cuadro2{
+background-color:#E8DAEF ;
+	 margin: 0px 0px 0px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 200px;
+	 outline: 5px solid #7B68EE;
+}
+
+
+.cuadro3{
+background-color:#E8DAEF ;
+	 margin: 0px 0px 0px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 200px;
+	 outline: 5px solid #7B68EE;
+}
+
+.cuadro4{
+background-color:#E8DAEF ;
+	 margin: 0px 0px 0px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 200px;
+	 outline: 5px solid #7B68EE;
+}
+
+.cuadro5{
+background-color:#E8DAEF ;
+	 margin: 0px 0px 0px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 200px;
+	 outline: 5px solid #7B68EE;
+}
+
+.caja{
+	background-color:#9370DB;
+	margin: 30px 30px 30px 30px;
+	width:250px;
+	height: 300px;
+	border:15px solid red ;
+}
+.tamanoletra{
+	font-size: 20;
+}
+* {
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+.form-login {
+	width: 400px;
+	height:340px;
+	background: #FFA07A;
+}
+
+
+
+
+
+
+
+
+
+
+.tg {
+	font-size: 40
+}
+
+
+
+
+
+.caja2{
+	background-color:#AFEEEE;
+	margin: 30px 30px 30px 30px;
+	width:1000px;
+	height: 300px;
+	border: 20px pink ;
+
+
+	}
+
+
+
+	.tg2 {
+	font-size: 40 
+}
+ 
+ .center{
+ 	
+	 margin: 70px 70px 80px 480px;
+	 padding: 15px 15px 25px 15px;
+	 height: 650px;
+	 width: 1000px;
+	 outline: 3px solid black;
+	 padding-left: 10;
+	}
+
+
+.formu{
+	background-color:#CD5C5C 
+;
+	margin: 30px 30px 30px 30px;
+	width:600px;
+	height: 500px;
+	border:15px solid #BC8F8F ;
+}
+
+
+
+
+	
+
+	
+
+

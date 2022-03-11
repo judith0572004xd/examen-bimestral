@@ -1,0 +1,57 @@
+
+
+<html>
+<head>
+	<link  href="styles.css"  rel="stylesheet" type="text/css">
+<title>Acceder a pagina wed</title>
+<script>
+function comprobarClave(){
+    clave1 = document.f1.clave1.value
+    clave2 = document.f1.clave2.value
+     
+
+    if (clave1 == "angela" && clave2 == "bran"){
+       alert("Los Datos Coinciden...\n Bienvenido");
+        var href =  "mi historia.html";
+        window.location=href;
+         }
+       
+    else{
+       alert("Las dos claves son distintas...\nIntentelo nuevamente.");
+        var href =  "index.html";
+        window.location=href;
+    };
+       
+}  
+</script>
+</head>
+
+
+<body>
+
+<h1><center>Introducir Contraseñas</center></h1>
+<br>
+<div class="tamanoletra">
+<center>Escribe las contraseñas correctamente, todas minúsculas.</center>
+	<center>
+
+ <div class="caja">
+<br>
+<form action="" name="f1">
+Contraseña 1: <input type="password" name="clave1" size="20">
+<br> 
+<br>
+ Contraseña 2: <input type="password" name="clave2" size="20">
+<br>
+<br>
+<br>
+<input type="button" value="Comprobar si son iguales" onClick="comprobarClave()">
+</div>
+</center>
+
+</form>
+
+ 
+
+</body>
+</html>
